@@ -140,3 +140,8 @@ ul{
     font-size: 20px;
     list-style: circle inside none
 }
+@media only screen and (max-width: 1080px) {
+    h1{
+        font-size: 30px;
+    }
+}
